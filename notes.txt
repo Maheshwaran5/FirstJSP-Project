@@ -1,0 +1,2 @@
+Every JSP file converts into servlet.
+The HTML content in this page will be added to service method.
